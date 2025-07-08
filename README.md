@@ -18,7 +18,7 @@ Jika kamu ingin berdiskusi tentang pengembangan web, internship, atau kolaborasi
 - 📮 Email: rizkyichsan29@gmail.com
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyIchsanN)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyIchsanN&size_weight=0.5&count_weight=0.5)
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 <!--
