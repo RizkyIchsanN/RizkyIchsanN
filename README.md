@@ -1,9 +1,27 @@
-## Hi there 👋
-🌟 Welcome to my GitHub profile! ![GIF](https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif)
+# 👋 Hi, I'm Rizky Ichsan
 
+Selamat datang di GitHub saya! Saya seorang **Fullstack Developer** yang senang membangun solusi web modern dengan perpaduan teknologi frontend dan backend. Saya fokus pada pengembangan antarmuka yang responsif dan integrasi backend yang scalable.
 
-I am a passionate developer with skills in PHP, JavaScript, Python and more
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+## 🚀 My Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS
+- **Backend:** PHP, Supabase, FlyEnv
+- **Tools & Workflows:** Docker, Laragon, GitHub Pages
+
+## 🧩 Projects I'm Proud Of
+- 🏠 [Booking Kos](https://github.com/RizkyIchsanN/booking-kos) – Sistem pemesanan kost berbasis web dengan Blade dan PHP
+- 🛒 [Tokopedia Clone](https://github.com/RizkyIchsanN/tokopedia-clone) – Eksperimen UI/UX marketplace menggunakan TypeScript dan Next.js
+- 📁 [Portofolio](https://github.com/RizkyIchsanN/portofolio) – Web portofolio pribadi yang menampilkan proyek-proyek saya
+
+## 📫 Let's Connect!
+Jika kamu ingin berdiskusi tentang pengembangan web, internship, atau kolaborasi proyek, jangan ragu untuk menghubungi saya!
+
+- 🌐 Website: [rizkyichsann.github.io](https://rizkyichsann.github.io)
+- 📮 Email: rizkyichsan29@gmail.com
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
 <!--
 **RizkyIchsanN/RizkyIchsanN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
