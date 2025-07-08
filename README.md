@@ -60,6 +60,13 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
   🔗 [Repo](https://github.com/RizkyIchsanN/portofolio)
 </details>
 
+<details>
+  <summary><b>Iklix</b> </summary>
+  Web Streaming Film dan Series Menggunakan TypeScript dan Supabase.
+  <br>
+  🔗 [Repo](https://github.com/RizkyIchsanN/iklix)
+</details>
+
 ---
 
 ## 📊 GitHub Stats
