@@ -9,8 +9,9 @@
 </h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY5OTJicWY5Z2V1dGk1bGdlZ3lweGZnYTN2Y2JjcDJncHA0eTQxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkxNwzCQfMdG/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
+
 
 ---
 
@@ -77,10 +78,9 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
 
 ## 📫 Contact
 
-Jika kamu ingin berkolaborasi, berdiskusi teknologi, atau sekadar say hi 👋
+Feel free to reach out if you'd like to collaborate, talk tech, or just say hi 👋
 
-- 🌐 Website: [rizkyichsann.github.io](https://rizkyichsann.github.io)
-- 📧 Email: *[masukkan email kamu]*
+- 📧 Email: rizkyichsan29@gmail.com
 
 ---
 
