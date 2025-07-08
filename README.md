@@ -1,25 +1,94 @@
-# 👋 Hi, I'm Rizky Ichsan
+<h1 align="center">Hi there 👋, I'm Rizky Ichsan</h1>
 
-Selamat datang di GitHub saya! Saya seorang **Fullstack Developer** yang senang membangun solusi web modern dengan perpaduan teknologi frontend dan backend. Saya fokus pada pengembangan antarmuka yang responsif dan integrasi backend yang scalable.
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=RizkyIchsanN&color=dc143c&style=for-the-badge" alt="Profile Views">
+  Fullstack Developer
+  <a href="https://rizkyichsann.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
+  </a>
+</h2>
 
-## 🚀 My Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS
-- **Backend:** PHP, Supabase, Go
-- **Tools & Workflows:** Docker, Laragon, GitHub Pages
-
-## 🧩 Projects I'm Proud Of
-- 🏠 [Booking Kos](https://github.com/RizkyIchsanN/booking-kos) – Sistem pemesanan kost berbasis web dengan Blade dan PHP
-- 🛒 [Tokopedia Clone](https://github.com/RizkyIchsanN/tokopedia-clone) – Eksperimen UI/UX marketplace menggunakan TypeScript dan Next.js
-- 📁 [Portofolio](https://github.com/RizkyIchsanN/portofolio) – Web portofolio pribadi yang menampilkan proyek-proyek saya
-
-## 📫 Let's Connect!
-Jika kamu ingin berdiskusi tentang pengembangan web, internship, atau kolaborasi proyek, jangan ragu untuk menghubungi saya!
-
-- 📮 Email: rizkyichsan29@gmail.com
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY5OTJicWY5Z2V1dGk1bGdlZ3lweGZnYTN2Y2JjcDJncHA0eTQxMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QssGEmpkxNwzCQfMdG/giphy.gif" width="300"/>
+</div>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyIchsanN&size_weight=0.5&count_weight=0.5)
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+## 🧑‍💻 About Me
+I'm a passionate developer blending **frontend design** and **scalable backend** architecture. My curiosity ranges from building elegant user interfaces to integrating modern workflows.
+
+- 💡 Specialize in **React**, **Next.js**, and API design
+- 🔐 Learning best practices in deployment and security
+- ⚙️ Exploring **Supabase**, **FlyEnv**, **Docker**, and **Laragon**
+- 🌈 Integrating creativity into web experiences (Yes, I enjoy fantasy visual concepts too!)
+
+---
+
+## 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📂 Notable Projects
+
+<details>
+  <summary><b>Booking Kos</b> 🏠</summary>
+  Web kost berbasis PHP dan Blade untuk sistem pemesanan online.
+  <br>
+  🔗 [Repo](https://github.com/RizkyIchsanN/booking-kos)
+</details>
+
+<details>
+  <summary><b>Tokopedia Clone</b> 🛒</summary>
+  Replikasi UI marketplace dengan TypeScript dan Next.js.
+  <br>
+  🔗 [Repo](https://github.com/RizkyIchsanN/tokopedia-clone)
+</details>
+
+<details>
+  <summary><b>Portofolio</b> 🎨</summary>
+  Website pribadi untuk menampilkan skill dan proyek.
+  <br>
+  🔗 [Repo](https://github.com/RizkyIchsanN/portofolio)
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RizkyIchsanN&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RizkyIchsanN&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyIchsanN&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
+## 📫 Contact
+
+Jika kamu ingin berkolaborasi, berdiskusi teknologi, atau sekadar say hi 👋
+
+- 🌐 Website: [rizkyichsann.github.io](https://rizkyichsann.github.io)
+- 📧 Email: *[masukkan email kamu]*
+
+---
+
+<details>
+  <summary>💬 Random Quote</summary>
+  <i>"The best error message is the one that never shows up." – Thomas Fuchs</i>
+</details>
+
 
 <!--
 **RizkyIchsanN/RizkyIchsanN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
