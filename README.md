@@ -3,13 +3,15 @@
 </p>
 <h1 align="center">Hi there 👋, I'm Rizky Ichsan</h1>
 
+<h2 align="center">
+  Fullstack Developer
+</h2>
+
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
 
-<h2 align="center">
-  Fullstack Developer
-</h2>
+
 
 ---
 
