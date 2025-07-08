@@ -1,13 +1,15 @@
-<h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=RizkyIchsanN&color=dc143c&style=for-the-badge" alt="Profile Views">
-  Fullstack Developer
-</h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RizkyIchsanN&color=dc143c&style=flat-square" alt="Profile Views" />
+</p>
 <h1 align="center">Hi there 👋, I'm Rizky Ichsan</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </div>
 
+<h2 align="center">
+  Fullstack Developer
+</h2>
 
 ---
 
