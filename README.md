@@ -61,10 +61,10 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
 </details>
 
 <details>
-  <summary><b>Iklix</b> </summary>
-  Web Streaming Film dan Series Menggunakan TypeScript dan Supabase.
+  <summary><b>Company Profile</b> </summary>
+  Web Company Profile Menggunakan TypeScript.
   <br>
-  🔗 [Repo](https://github.com/RizkyIchsanN/iklix)
+  🔗 [Repo](https://github.com/RizkyIchsanN/Builder-curry-world)
 </details>
 
 ---
