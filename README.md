@@ -4,7 +4,7 @@ Selamat datang di GitHub saya! Saya seorang **Fullstack Developer** yang senang 
 
 ## 🚀 My Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, TailwindCSS
-- **Backend:** PHP, Supabase, FlyEnv
+- **Backend:** PHP, Supabase, Go
 - **Tools & Workflows:** Docker, Laragon, GitHub Pages
 
 ## 🧩 Projects I'm Proud Of
@@ -15,7 +15,6 @@ Selamat datang di GitHub saya! Saya seorang **Fullstack Developer** yang senang 
 ## 📫 Let's Connect!
 Jika kamu ingin berdiskusi tentang pengembangan web, internship, atau kolaborasi proyek, jangan ragu untuk menghubungi saya!
 
-- 🌐 Website: [rizkyichsann.github.io](https://rizkyichsann.github.io)
 - 📮 Email: rizkyichsan29@gmail.com
 
 ---
