@@ -44,7 +44,7 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
 
 <details>
   <summary><b>Booking Apartment</b> 🏠</summary>
-  Web booking berbasis Vite dan React untuk sistem pemesanan online.
+  Web booking berbasis TypeScript dan React untuk sistem pemesanan online.
   <br>
   🔗 [Website](https://modern-seaside-stay-livid.vercel.app/)
 </details>
@@ -58,7 +58,7 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
 
 <details>
   <summary><b>Portofolio</b> 🎨</summary>
-  Website pribadi untuk menampilkan skill dan proyek.
+  Website pribadi untuk menampilkan skill dan proyek menggunakan TypeScript dan Next.js.
   <br>
   🔗 [Website](https://portofolio-sage-rho.vercel.app/)
 </details>
