@@ -43,10 +43,10 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
 ## 📂 Notable Projects
 
 <details>
-  <summary><b>Booking Kos</b> 🏠</summary>
-  Web kost berbasis PHP dan Blade untuk sistem pemesanan online.
+  <summary><b>Booking Apartment</b> 🏠</summary>
+  Web booking berbasis Vite dan React untuk sistem pemesanan online.
   <br>
-  🔗 [Repo](https://github.com/RizkyIchsanN/booking-kos)
+  🔗 [Website](https://modern-seaside-stay-livid.vercel.app/)
 </details>
 
 <details>
@@ -60,7 +60,7 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
   <summary><b>Portofolio</b> 🎨</summary>
   Website pribadi untuk menampilkan skill dan proyek.
   <br>
-  🔗 [Repo](https://github.com/RizkyIchsanN/portofolio)
+  🔗 [Website](https://portofolio-sage-rho.vercel.app/)
 </details>
 
 <details>
