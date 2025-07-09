@@ -85,6 +85,7 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
 Feel free to reach out if you'd like to collaborate, talk tech, or just say hi 👋
 
 - 📧 Email: rizkyichsan29@gmail.com
+- 📫 Website: https://portofolio-sage-rho.vercel.app
 
 ---
 
