@@ -46,7 +46,7 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
   <summary><b>Booking Apartment</b> 🏠</summary>
   Web booking berbasis TypeScript dan React untuk sistem pemesanan online.
   <br>
-  🔗 [Website](https://modern-seaside-stay-livid.vercel.app/)
+  🔗 [Website](https://modern-seaside-stay-livid.vercel.app)
 </details>
 
 <details>
@@ -60,14 +60,14 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
   <summary><b>Portofolio</b> 🎨</summary>
   Website pribadi untuk menampilkan skill dan proyek menggunakan TypeScript dan Next.js.
   <br>
-  🔗 [Website](https://portofolio-sage-rho.vercel.app/)
+  🔗 [Website](https://portofolio-sage-rho.vercel.app)
 </details>
 
 <details>
   <summary><b>Company Profile</b> </summary>
   Web Company Profile Menggunakan TypeScript.
   <br>
-  🔗 [Repo](https://github.com/RizkyIchsanN/Builder-curry-world)
+  🔗 [Website](https://eg-company-profile.vercel.app)
 </details>
 
 ---
