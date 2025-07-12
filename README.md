@@ -18,9 +18,9 @@
 ## 🧑‍💻 About Me
 I'm a passionate developer blending **frontend design** and **scalable backend** architecture. My curiosity ranges from building elegant user interfaces to integrating modern workflows.
 
-- 💡 Specialize in **PHP**, **React**, **Next.js**, and API design
+- 💡 Specialize in **PHP**, **React**, **Next.js**, **TypeScriptand** and API design
 - 🔐 Learning best practices in deployment and security
-- ⚙️ Exploring **Supabase**, **FlyEnv**, **Docker**, and **Laragon**
+- ⚙️ Exploring **Supabase**, **Golang**, **Docker**, and **Node.js**
 - 🌈 Integrating creativity into web experiences (Yes, I enjoy fantasy visual concepts too!)
 
 ---
