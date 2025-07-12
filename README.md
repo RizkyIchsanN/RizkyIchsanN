@@ -64,6 +64,13 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
 </details>
 
 <details>
+  <summary><b>Booking Villa</b> 🏠</summary>
+  Web booking berbasis Vite dan TypeScript untuk sistem pemesanan online.
+  <br>
+  🔗 [Website](https://ocean-stay.vercel.app/)
+</details>
+
+<details>
   <summary><b>Company Profile</b> </summary>
   Web Company Profile Menggunakan TypeScript.
   <br>
