@@ -43,6 +43,13 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
 ## 📂 Notable Projects
 
 <details>
+  <summary><b>Booking Villa</b> 🏠</summary>
+  Web booking berbasis Vite, TypeScript dan React untuk sistem pemesanan online.
+  <br>
+  🔗 [Website](https://ocean-stay.vercel.app/)
+</details>
+
+<details>
   <summary><b>Booking Apartment</b> 🏠</summary>
   Web booking berbasis TypeScript dan React untuk sistem pemesanan online.
   <br>
@@ -61,13 +68,6 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
   Website pribadi untuk menampilkan skill dan proyek menggunakan TypeScript dan Next.js.
   <br>
   🔗 [Website](https://portofolio-sage-rho.vercel.app)
-</details>
-
-<details>
-  <summary><b>Booking Villa</b> 🏠</summary>
-  Web booking berbasis Vite dan TypeScript untuk sistem pemesanan online.
-  <br>
-  🔗 [Website](https://ocean-stay.vercel.app/)
 </details>
 
 <details>
