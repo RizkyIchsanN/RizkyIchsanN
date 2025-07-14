@@ -46,7 +46,7 @@ I'm a passionate developer blending **frontend design** and **scalable backend**
   <summary><b>Booking Villa</b> 🏠</summary>
   Web booking berbasis Vite, TypeScript dan React untuk sistem pemesanan online.
   <br>
-  🔗 [Website](https://ocean-stay.vercel.app/)
+  🔗 [Website](https://ocean-stay-git-main-rizky-ichsans-projects.vercel.app)
 </details>
 
 <details>
